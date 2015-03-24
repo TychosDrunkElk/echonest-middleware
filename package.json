@@ -1,0 +1,22 @@
+{
+  "name": "echonest-middleware",
+  "version": "0.0.0",
+  "description": "Echonest middleware middleware for express apps",
+  "main": "index.js",
+  "keywords": [
+    "echonest",
+    "express",
+    "middleware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pstierhoff/echonest-middleware"
+  },
+  "author": "Phoebe Stierhoff",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~3.5.0",
+    "express": "~4.12.3",
+    "request": "~2.53.0"
+  }
+}
